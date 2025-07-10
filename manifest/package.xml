@@ -6,31 +6,21 @@
     </types>
     <types>
         <members>*</members>
-        <name>ApexComponent</name>
+        <name>CustomTab</name>
+    </types> 
+     <types>
+        <members>Contact</members>
+       <name>CustomObject</name>
     </types>
-    <types>
+     <types>
+        <members>DemoProfile</members>
+       <name>Profile</name>
+    </types> 
+     
+     <types>
         <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTestSuite</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>LightningComponentBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
-    </types>
+       <name>CustomField</name>
+    </types> 
+    
     <version>64.0</version>
 </Package>
